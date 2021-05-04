@@ -1,0 +1,97 @@
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\calculator.Android.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\calculator.Android.pdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\calculator.Android.apk
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\calculator.Android-Signed.apk
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\FormsViewGroup.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\FormsViewGroup.pdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.csprojResolveAssemblyReference.cache
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\calculator.Droid.MainPage.xaml.g.cs
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\calculator.Droid.App.xaml.g.cs
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.dll
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.pdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\android\bin\calculator.Android.apk
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\res\drawable\icon.png
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\res\values\styles.xml
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\R.cs.flag
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\uploadflags.txt
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\bin\Debug\calculator.Android.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\android\assets\calculator.Android.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\javier dastas\documents\visual studio 2017\Projects\calculator\calculator\calculator.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\calculator\calculator\calculator.Android\bin\Debug\calculator.Android.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\calculator.Android.pdb
+E:\calculator\calculator\calculator.Android\bin\Debug\calculator.Android.apk
+E:\calculator\calculator\calculator.Android\bin\Debug\calculator.Android-Signed.apk
+E:\calculator\calculator\calculator.Android\bin\Debug\FormsViewGroup.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\calculator\calculator\calculator.Android\bin\Debug\FormsViewGroup.pdb
+E:\calculator\calculator\calculator.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\calculator\calculator\calculator.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.csprojResolveAssemblyReference.cache
+E:\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.csproj.CoreCompileInputs.cache
+E:\calculator\calculator\calculator.Android\obj\Debug\calculator.Droid.MainPage.xaml.g.cs
+E:\calculator\calculator\calculator.Android\obj\Debug\calculator.Droid.App.xaml.g.cs
+E:\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.dll
+E:\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.pdb
+E:\calculator\calculator\calculator.Android\obj\Debug\android\bin\calculator.Android.apk
+E:\calculator\calculator\calculator.Android\obj\Debug\res\drawable\icon.png
+E:\calculator\calculator\calculator.Android\obj\Debug\res\layout\tabbar.xml
+E:\calculator\calculator\calculator.Android\obj\Debug\res\layout\toolbar.xml
+E:\calculator\calculator\calculator.Android\obj\Debug\res\values\styles.xml
+E:\calculator\calculator\calculator.Android\obj\Debug\R.cs.flag
+E:\calculator\calculator\calculator.Android\obj\Debug\uploadflags.txt
+E:\calculator\calculator\calculator.Android\bin\Debug\calculator.Android.dll.mdb
+E:\calculator\calculator\calculator.Android\obj\Debug\android\assets\calculator.Android.dll.mdb
+E:\calculator\calculator\calculator.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\calculator\calculator\calculator.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\calculator\calculator\calculator.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\calculator\calculator\calculator.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\calculator\calculator\calculator.Android\obj\Debug\calculator.Droid.MainPage.xaml.g.cs
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\calculator\calculator\calculator.Android\obj\Debug\calculator.Droid.App.xaml.g.cs
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.dll
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\calculator\calculator\calculator.Android\obj\Debug\calculator.Android.pdb
